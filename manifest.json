@@ -1,6 +1,6 @@
 {
     "name": "MyBus Pro",
-    "short_name": "bus",
+    "short_name": "MyBus Pro",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
